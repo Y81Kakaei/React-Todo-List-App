@@ -1,0 +1,14 @@
+body{
+    padding: 50px;
+    background-image: url('https://media.swncdn.com/cms/CW/family/12821-to-do-list.1200w.tn.jpg');
+    font-family: "Montserrat";
+}
+
+#container{
+    display: flex;
+    justify-content: flex;
+    background:rgba(255,255,255,0.7);
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
